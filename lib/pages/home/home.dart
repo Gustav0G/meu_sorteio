@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:meu_sorteio/pages/history/history_page.dart';
+import 'package:meu_sorteio/pages/history_page/history_page.dart';
 import 'package:meu_sorteio/pages/home_page/home_page.dart';
 
 class Home extends StatefulWidget {
