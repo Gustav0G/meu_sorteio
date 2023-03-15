@@ -1,16 +1,22 @@
-# meu_sorteio
+# :computer: Meu_Sorteio 
 
-A new Flutter project.
+Projeto criado utilizando Flutter e Dart que consiste em gerar(sortear) números aleatórios de acordo com os dados fornecido pelo usuário e com a capacidade de armazenar os resultados em um banco de dados no próprio dispositivo através da biblioteca Sqflite.
 
-## Getting Started
+## :iphone: Telas da Aplicação 
+**1. Home page da aplicação**
 
-This project is a starting point for a Flutter application.
+![image](photo_home_page.png)
 
-A few resources to get you started if this is your first Flutter project:
+ **2. Tela de Resultado**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](photo_result_page.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ **3. Tela de Histórico**
+
+![image](photo_history_page.png)
+
+## :package: Packages 	
+Foi utilizado no projeto os seguintes packages.
+
+- [Sqflite](https://pub.dev/packages/sqflite)
+- [Path](https://pub.dev/packages/path)
